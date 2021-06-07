@@ -14,12 +14,12 @@ var getCurrentTime = function () {
 
 var messages = [
   'Hi 👋',
-  "I'm Tai, a software engineer",
+  "I'm Tai, a software engineer at <a target='_blank' href='https://www.tyme.com/'>Tyme</a>",
   "I'm living in Ho Chi Minh 🇻🇳",
   "I love dog 🦮, football ⚽ and running 🏃",
   "I'm passionate about web and technologies 👨‍💻",
   "I'm able to work in both frontend and backend",
-  "Contact me at: <a target='_blank' href='1112264.lptai@gmail.com'>1112264.lptai@gmail.com</a> 📬",
+  "Contact me at: <a href='mailto:1112264.lptai@gmail.com'>1112264.lptai@gmail.com</a> 📬",
   "Or find my resume <a target='_blank' href='https://phuctaile.com/resume'>here</a> 👈",
   getCurrentTime(),
   '✍️ taile',
