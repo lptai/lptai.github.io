@@ -14,7 +14,7 @@ var getCurrentTime = function () {
 
 var messages = [
   'Hi 👋',
-  "I'm Tai, a software engineer at <a target='_blank' href='https://www.tyme.com/'>Tyme</a>",
+  "I'm Tai, a software engineer at <a target='_blank' href='https://flownetworks.io/'>Flow</a>",
   "I'm living in Ho Chi Minh 🇻🇳",
   "I love dog 🦮, football ⚽ and running 🏃",
   "I'm passionate about web and technologies 👨‍💻",
@@ -40,13 +40,13 @@ var bubbleAnimations = function (el) {
       width: [pxToRem(0), pxToRem(el.offsetWidth + getFontSize())],
       marginLeft: ['-2.5rem', '0rem'],
       marginTop: ['2.5rem', '0rem'],
-      duration: 800,
+      duration: 300,
       easing: 'easeOutElastic',
     }),
     loop: anime({
       targets: el,
       scale: [1.05, 0.95],
-      duration: 800,
+      duration: 300,
       loop: true,
       direction: 'alternate',
       easing: 'easeInOutQuad',
@@ -55,7 +55,7 @@ var bubbleAnimations = function (el) {
       targets: el.querySelectorAll('b'),
       scale: 1.25,
       opacity: [0.5, 1],
-      duration: 300,
+      duration: 100,
       loop: true,
       direction: 'alternate',
       delay: function (i) {
