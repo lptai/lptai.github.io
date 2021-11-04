@@ -14,7 +14,7 @@ var getCurrentTime = function () {
 
 var messages = [
   'Hi 👋',
-  "I'm Tai, a software engineer at <a target='_blank' href='https://flownetworks.io/'>Flow</a>",
+  "I'm Tai, 👨🏻‍💻 a software engineer at <a target='_blank' href='https://flownetworks.io/'>Flow</a>",
   "I'm living in Ho Chi Minh 🇻🇳",
   "I love dog 🦮, football ⚽ and running 🏃",
   "I'm passionate about web and technologies 👨‍💻",
