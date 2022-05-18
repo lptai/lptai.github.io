@@ -14,13 +14,14 @@ var getCurrentTime = function () {
 
 var messages = [
   'Hi 👋',
-  "I'm Tai, 👨🏻‍💻 a software engineer at <a target='_blank' href='https://flownetworks.io/'>Flow</a>",
-  "I'm living in Ho Chi Minh 🇻🇳",
-  "I love dog 🦮, football ⚽ and running 🏃",
-  "I'm passionate about web and technologies 👨‍💻",
-  "I'm able to work in both frontend and backend",
-  "Contact me at: <a href='mailto:1112264.lptai@gmail.com'>1112264.lptai@gmail.com</a> 📬",
-  "Or find my resume <a target='_blank' href='https://phuctaile.com/resume'>here</a> 👈",
+  "👨🏻‍💻 I'm Tai, software engineer",
+  "👨🏻‍💻 I'm currently working <a target='_blank' href='https://propine.com/products/'>@Propine</a>",
+  `🔭 I'm using JavaScript, Node.js, PostgresDB, RabbitMQ, and AWS`,
+  `✏️ I'm passionate about building modern web application with #react #redux #styled-components #storybook`,
+  "💥 I'm also get my hand dirty with #java, #springBoot, #mysql, #mongodb, #kafka, #serverless-framework #k8s",
+  "📫 Connect me: <a href='mailto:1112264.lptai@gmail.com'>1112264.lptai@gmail.com</a> 📬",
+  "👉 Find my resume <a target='_blank' href='https://phuctaile.com/resume'>here</a> 👈",
+  "💾 Or download <a target='_blank' href='https://resume.phuctaile.com/phuctaile.pdf'>here</a> 👈",
   getCurrentTime(),
   '✍️ taile',
 ];
